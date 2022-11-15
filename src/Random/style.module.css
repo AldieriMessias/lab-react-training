@@ -1,0 +1,6 @@
+.divRandom{
+    display: flex;
+    padding: 0 0 15px 0;
+    border: 2px solid black;
+    margin: 0 0 2px 0;
+}

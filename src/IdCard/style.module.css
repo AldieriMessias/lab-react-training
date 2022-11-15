@@ -1,0 +1,17 @@
+.card{
+    display:flex;
+    height: 200px;
+    gap:25px;
+    padding-bottom: 25px;
+    border: 1px solid black;
+    margin: 2px;
+}
+
+.imgCard{
+    
+
+}
+
+.dataCard{
+
+}

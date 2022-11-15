@@ -1,0 +1,25 @@
+.allDriveCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+    margin: 5px;
+}
+
+
+.imgDriveCard {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+.infoDriveCard{
+    
+
+}
+
+.infoDriveCard p{
+    font-size: .8em;
+
+}
